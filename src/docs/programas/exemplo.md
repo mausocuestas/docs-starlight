@@ -1,5 +1,5 @@
 ---
-title: Bem-vindo à Legislação
+title: Bem-vindo aos Programas
 ---
 
 import AlgumComponente from '../../components/AlgumComponente.astro';
